@@ -11,8 +11,8 @@ void sinh(set<int> a){
 }
 
 int main(){
-  freopen("BT.INP","r",stdin);
-  freopen("BT.OUT","w",stdout);
+  freopen("BT1.INP","r",stdin);
+  freopen("BT1.OUT","w",stdout);
   ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
   int n,k;
   cin >> n >> k;
