@@ -38,8 +38,8 @@ int kt2(int k, int a[], int l){
 
 
 int main(){
-    freopen("bai2.txt","r",stdin);
-    freopen("B2.txt","w",stdout);
+    freopen("PRODSUM.INP","r",stdin);
+    freopen("PRODSUM.OUT","w",stdout);
     int n,s=0;
     cin >> n;
     int a[n];
