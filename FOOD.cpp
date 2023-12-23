@@ -39,8 +39,8 @@ void Try(int i){
 
 
 int main(){
-   freopen("BT.INP","r",stdin);
-   freopen("BT.OUT","w",stdout);
+   freopen("FOOD.INP","r",stdin);
+   freopen("FOOD.OUT","w",stdout);
    IQ_FAST;
    nhap();
    x[0]=1; t[0]=0;
