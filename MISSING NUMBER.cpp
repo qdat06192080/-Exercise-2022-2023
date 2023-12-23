@@ -4,8 +4,8 @@
 using namespace std;
 
 int main(){
-   freopen("BT.INP","r",stdin);
-   freopen("BT.OUT","w",stdout);
+   freopen("MISSINGNUMBER.INP","r",stdin);
+   freopen("MISSINGNUMBER.OUT","w",stdout);
    int n;
    cin >> n;
    n--;
