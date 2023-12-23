@@ -4,7 +4,8 @@
 using namespace std;
 
 int main(){
-
+   freopen("REPETITIONS.INP","r",stdin);
+   freopen("REPETITIONS.OUT","w",stdout);
    string s;long long d=1,m=d;
    cin >> s;
    for (int i=0;i<s.length();i++){
